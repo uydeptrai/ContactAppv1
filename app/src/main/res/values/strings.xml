@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Contact App v1</string>
+    <string name="title_activity_new_contact">NewContactActivity</string>
+</resources>
